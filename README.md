@@ -12,7 +12,7 @@
 
 * link hosting hanya berlaku satu bulan untuk masa akses 
 
-* **Untuk melihat **KAS WARGA** **LOGIN** Terlebih dahulu agar memiliki akses hapus dan ubah dan lihat**
+* **Untuk melihat **KAS WARGA,** **LOGIN** Terlebih dahulu agar memiliki akses hapus dan ubah dan lihat**
 
 
 **Untuk Login**
