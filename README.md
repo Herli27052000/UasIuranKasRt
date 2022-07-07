@@ -12,14 +12,16 @@
 
 * link hosting hanya berlaku satu bulan untuk masa akses 
 
-* **Untuk melihat **KAS WARGA,** **LOGIN** Terlebih dahulu agar memiliki akses hapus dan ubah dan lihat**
+* Untuk melihat **KAS WARGA,** **LOGIN** Terlebih dahulu agar memiliki akses hapus dan ubah dan lihat
+
+* Untuk Menambahkan **Tambah Iuran** pada **Kas Warga** pastikan **Id** sama dengan yang ada pada **Data Warga** agar terinput dan terhapus secara otomatis bila dihapus atau tambah iuran.
 
 
 **Untuk Login**
 
 **EMAIL:** herli27052000@gmail.com 
 
-**PASSWORD:** herli1234 
+**PASSWORD:** **herli1234** 
 
 ### Maaf jika Program belum sempurna
 
