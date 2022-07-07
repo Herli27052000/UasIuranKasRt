@@ -1,4 +1,4 @@
-|   Herliyansyah       |   312010387        |
+|   HERLIYANSYAH       |   312010387        |
 |----------------------|--------------------|
 | UAS PEMROGRAMAN WEB  | GANJIL             |
 |       APLIKASI IURAN KAS                  |
