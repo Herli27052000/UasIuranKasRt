@@ -33,11 +33,12 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Data_Warga::index');
 $routes->get('/data_warga', 'Data_Warga::index');
+$routes->get('/iuran', 'iuran::index');
 $routes->get('/laporan', 'Laporan::index');
 $routes->group('admin', ['filter' => 'auth'],function($routes) {
 	$routes->get('data_warga', 'Data_Warga::admin_index');
 	$routes->get('iuran', 'iuran::admin_index');
-	$routes->get('laporan', 'laporan::admin_index');
+	$routes->get('laporan', 'Laporan::admin_index');
 	$routes->add('data_warga/add', 'Data_Warga::add');
 	$routes->add('iuran/add', 'iuran::add');
 	$routes->add('data_warga/edit/(:any)', 'Data_Warga::edit/$1');

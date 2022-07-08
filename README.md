@@ -12,8 +12,6 @@
 
 * link hosting hanya berlaku satu bulan untuk masa akses 
 
-* Untuk melihat **KAS WARGA,** **LOGIN** Terlebih dahulu agar memiliki akses hapus dan ubah dan lihat
-
 * Untuk Menambahkan **Tambah Iuran** pada **Kas Warga** pastikan **Id** sama dengan yang ada pada **Data Warga** agar terinput dan terhapus secara otomatis bila dihapus atau tambah iuran.
 
 
